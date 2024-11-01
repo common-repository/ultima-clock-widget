@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Aldrich');
+.wrp-container{
+	border-radius:5px;
+	overflow:hidden;
+	padding:20px;
+}
+.black-theme{
+	color:#fff;
+	background:#272e38;
+}
+.black-theme #Date{
+	color:#c3c3c3;
+}
+.wrp-container .clock ul{}
+.wrp-container .clock ul li{
+	float:left;
+	font-size:35px;
+	font-family: 'Aldrich', sans-serif;
+	display: inline-block;
+}
+.white-theme{
+	color:#272e38;
+	background:#dddddd;
+}
